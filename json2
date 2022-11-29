@@ -1,0 +1,15 @@
+{
+  "dia-web-api": {
+    "container-version": "investran-docker-snapshot-local.docker.fis.dev/dia-web-api/22.4.88"
+  },
+  "win-service-1": {
+    "container-version": "",
+    "msi-version": "https://artifactory.fis.dev/artifactory/Investran-generic-dev/INV/7.5.17/Trunk/112522/MSI/AlertHostServiceSetup-x64.7.5.17.538.msi"
+  },
+  "dia-web": {
+    "container-version": "investran-docker-snapshot-local.docker.fis.dev/dia-web/22.4.99"
+  },
+  "dia-excel": {
+    "container-version": "investran-docker-snapshot-local.docker.fis.dev/dia-excel/22.4.148"
+  }
+}
